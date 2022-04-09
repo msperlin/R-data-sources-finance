@@ -8,12 +8,12 @@ Fell free to contribute using the issues or PR system.
 
 ### Brazil
 
-- [yfR](https://github.com/msperlin/yfR) Imports prices and returns of stocks and indices from Yahoo Finance (any global market)
 - [GetDFPData2](https://github.com/msperlin/GetDFPData2) Financial Statements (asset/liabilities/cashflow) from the DFP (demonstrativos financeiros padronizados) for companies traded at B3/Brazil
 - [GetFREData](https://github.com/msperlin/GetFREData) Corporate information from the FRE (formulario de referencia) system (B3/Brazil)
 
 ### International Markets
 
+- [yfR](https://github.com/msperlin/yfR) Imports prices and returns of stocks and indices from Yahoo Finance (any global market)
 - [simfinapi](https://github.com/matthiasgomolka/simfinapi) Wraps the [https://simfin.com/](https://simfin.com/) Web-API to make ‘SimFin’ financial statements data easily available in R. 
 
 ## Fixed Income
