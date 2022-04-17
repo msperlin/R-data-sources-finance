@@ -1,8 +1,8 @@
 # Data Sources for Finance
 
 In this repository you'll find a curated (and biased) list of financial data packages for R. Here you'll find many of my own packages and also of others. 
-
-Fell free to contribute using the [issue](/issues) or PR system. 
+ 
+Fell free to contribute using the [issue](https://github.com/msperlin/R-data-sources-finance/issues) or PR system. 
 
 ## Other resources
 
