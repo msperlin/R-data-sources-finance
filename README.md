@@ -1,8 +1,8 @@
 # Data Sources for Finance
 
-In this repository you'll find a curated (and biased) list of financial data packages for using with R. Here you'll find many of my own package and also of others.
+In this repository you'll find a curated (and biased) list of financial data packages for using with R. Here you'll find many of my own package and also of others. 
 
-Fell free to contribute using the issues or PR system.
+Fell free to contribute using the issues or PR system. See [Tpessia/dados-financeiros](https://github.com/Tpessia/dados-financeiros) for a more broad collection.
 
 ## Equity Markets
 
